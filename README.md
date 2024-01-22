@@ -7,12 +7,12 @@
 
 <p style="font-size: 1.2em; line-height: 1.5em;">I am adaptable, have a friendly personality and bring positivity to the team. I can manage large projects and teams.</p>
 
-<h4>I am currently working on - </h4><br><ul><li>Hairscope - a hair analysis application.</li><br><li>Zicops - a feature rich LMS Platform.</li></ul>
+<h4>I am currently working on - </h4><ul><li>Hairscope - a hair analysis application.</li><li>Zicops - a feature rich LMS Platform.</li></ul>
 <br>
 <blockquote>
 <h2>I am open to discuss any ideas or projects that you have in mind.</h2>
 </blockquote>
-
+<br><br>
 ## 🌐 Connect me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
 
