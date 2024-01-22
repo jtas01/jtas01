@@ -12,7 +12,7 @@
 <h3>If you're interested in the work I do, or like to discuss any projects, get in touch with me on <a href='https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/'>LinkedIn</a>.</h3>
 </blockquote>
 <br>
-
+<!--
 ## 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
@@ -84,7 +84,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jtas01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
