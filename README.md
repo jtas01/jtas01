@@ -1,13 +1,13 @@
 # 💫 Hi, I'm Joy!
-I have more than 9+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL.
-<br>
-I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.
-<br>
-View my portfolio here : https://joy.skylinemeridian.com/
-<br>
-I am adaptable, have a friendly personality and bring positivity to the team. I can manage large projects and teams.
+<h5>I have more than 9+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL.</h5>
 
-<br><br>I am currently working on - <br>Hairscope - a hair analysis application.<br>Zicops - a feature rich LMS Platform.<br><br>I am skilled with NextJS, ReactJS, NodeJS, Core PHP, jQuery and WordPress.<br><br>
+<h5>I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.</h5>
+
+<h5>View my portfolio here : https://joy.skylinemeridian.com/</h5>
+
+<h5>I am adaptable, have a friendly personality and bring positivity to the team. I can manage large projects and teams.</h5>
+
+<br>I am currently working on - <br>Hairscope - a hair analysis application.<br>Zicops - a feature rich LMS Platform.<br><br>I am skilled with NextJS, ReactJS, NodeJS, Core PHP, jQuery and WordPress.<br><br>
 <blockquote>
 <p>I am open to discuss any ideas or projects that you have in mind.</p>
 </blockquote>
