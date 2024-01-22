@@ -1,6 +1,8 @@
-# 💫 About Me:
-Hi There,<br>My name is Jayanta Sarkar.<br>I love developing cool applications.<br><br>I am currently working on Hairscope - a hair analysis application.<br><br>I am skilled with NextJS, ReactJS, NodeJS, Core PHP and WordPress.<br><br>I am full stack developer, but I love building frontend more.<br><br>I am open to discuss any ideas or projects that you have in mind.
-
+# 💫 Hi, I'm Joy!
+My real name is Jayanta Sarkar.<br>I have been developing cool web applications for 9+ years.<br><br>I am currently working on - <br>Hairscope - a hair analysis application.<br>Zicops - a feature rich LMS Platform.<br><br>I am skilled with NextJS, ReactJS, NodeJS, Core PHP, jQuery and WordPress.<br>I am full stack developer, but I love building frontend more.<br>
+<blockquote>
+<p>I am open to discuss any ideas or projects that you have in mind.</p>
+</blockquote>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
