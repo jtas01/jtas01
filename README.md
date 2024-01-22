@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There,<br>My name is Jayanta Sarkar.<br>I love developing cool applications.<br><br>I am currently working on Hairscope - a hair analysis application.<br><br>I am skilled with<br>NextJS, <br>ReactJS, <br>NodeJS, <br>PHP and <br>WordPress.<br><br>I am full stack developer, but I love building frontend more.<br><br>I am open to discuss any ideas or projects that you have in mind.
+Hi There,<br>My name is Jayanta Sarkar.<br>I love developing cool applications.<br><br>I am currently working on Hairscope - a hair analysis application.<br><br>I am skilled with NextJS, ReactJS, NodeJS, Core PHP and WordPress.<br><br>I am full stack developer, but I love building frontend more.<br><br>I am open to discuss any ideas or projects that you have in mind.
 
 
 ## 🌐 Socials:
@@ -15,13 +15,13 @@ Hi There,<br>My name is Jayanta Sarkar.<br>I love developing cool applications.<
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jtas01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jtas01&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jtas01&limit=5&theme=monokai&combine_all_yearly_contributions=true) -->
 
-### 😂 Random Dev Meme
+### 😂 You'll find this relatable if you're a dev
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
