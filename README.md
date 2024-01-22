@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Joy!
-<h3 style="color: #945b98; line-height: 1.5em;">I have more than 9+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL.</h3>
+<h3 style="color: '#945b98'; line-height: 1.5em;">I have more than 9+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL.</h3>
 
 <h4>I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.</h4>
 
