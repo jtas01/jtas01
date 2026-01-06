@@ -9,7 +9,7 @@
 <h3>Check out my <a href='https://joy.skylinemeridian.com/'>Portfolio</a> to know more.</h3>
 <br>
 <blockquote>
-<h3>If you're interested in the work I do, or like to discuss any projects, get in touch with me on <a href='https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/'>LinkedIn</a>.</h3>
+<h3>If you're interested in the work I do, or like to discuss any projects, get in touch with me on <a href='/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/'>LinkedIn</a>.</h3>
 </blockquote>
 <br>
 <!--
