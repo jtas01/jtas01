@@ -15,7 +15,7 @@
 <!--
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
 
 ## 🎏 Love working with them:
 
@@ -91,11 +91,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jtas01&limit=5&theme=monokai&combine_all_yearly_contributions=true) -->
 
-### 😂 You'll find this relatable
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jtas01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **jtas01/jtas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
