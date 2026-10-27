@@ -1,4 +1,70 @@
 # 👋 Hi, I'm Joy!
+
+```javascript
+function joy() {
+    const mindset = "continuous learning";
+    const mode = "hands-on builder";
+
+    const passions = [
+        "product innovation",
+        "technology",
+        "development",
+        "business building"
+    ];
+
+    passions.map(passion => explore(passion));
+
+    learn();
+    build();
+    improve();
+
+    const passionText = passions.length > 1
+        ? passions.slice(0, -1).join(", ") + ", and " + passions.at(-1)
+        : passions[0];
+
+    return `Joy = a ${mode} passionate about ${passionText} and ${mindset}.`;
+}
+
+function explore(topic) {
+    console.log(`Exploring ${topic}... rabbit hole detected.`);
+}
+
+function learn() {
+    const lessons = [
+        "Question assumptions",
+        "Research relentlessly",
+        "Learn from mistakes"
+    ];
+
+    for (const lesson of lessons) {
+        console.log(`learn() → ${lesson}`);
+    }
+
+    console.warn("Knowledge updated. Questions multiplied.");
+}
+
+function build() {
+    const stages = ["IDEA", "PROTOTYPE", "TEST", "DEBUG", "SHIP"];
+
+    stages.forEach((stage, index) => {
+        console.log(`build() [${index + 1}/${stages.length}] → ${stage}`);
+    });
+
+    console.warn("It works on my machine. Deploying anyway.");
+}
+
+function improve() {
+    let progress = 0;
+
+    while (progress < 100) {
+        progress += 25;
+        console.log(`improve() → Progress: ${progress}%`);
+    }
+
+    console.error("Perfection not found. Releasing the update.");
+}
+```
+
 <p style="font-size: 1.2em; line-height: 1.5em;">I have more than 11+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL etc.</p>
 
 <p style="font-size: 1.2em; line-height: 1.5em;">I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.</p>
