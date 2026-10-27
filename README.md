@@ -1,5 +1,24 @@
 # 👋 Hi, I'm Joy!
 
+<p style="font-size: 1.2em; line-height: 1.5em;">I have more than 11+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL etc.</p>
+
+<p style="font-size: 1.2em; line-height: 1.5em;">I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.</p>
+
+<p style="font-size: 1.2em; line-height: 1.5em;">I am adaptable, have a friendly personality and bring positivity to the team. I can manage large projects and teams.</p>
+
+<h4>I am currently working on - </h4><ul><li> 💇 Hairscope - AI powered hair analysis.</li><li> 🤖 Skingenii - All about skincare.</li></ul>
+<h3>Check out my <a href='https://joy.skylinemeridian.com/'>Portfolio</a> to know more.</h3>
+<br>
+<blockquote>
+<h3>If you're interested in the work I do, or like to discuss any projects, get in touch with me on <a href='https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/'>LinkedIn</a>.</h3>
+</blockquote>
+<br>
+<!--
+## 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
+
+
 ```javascript
 function joy() {
     const mindset = "continuous learning";
@@ -63,25 +82,10 @@ function improve() {
 
     console.error("Perfection not found. Releasing the update.");
 }
+
+joy()
 ```
 
-<p style="font-size: 1.2em; line-height: 1.5em;">I have more than 11+ years of experience and high level knowledge of both the frontend and backend of web development. I have created several SaaS applications and numerous other web apps and websites. I have even created a fully functional drag and drop website builder. I am familiar with most modern web technologies and frameworks like ReactJS, NextJS, GraphQL etc.</p>
-
-<p style="font-size: 1.2em; line-height: 1.5em;">I have fair knowledge of design suites like Figma, XD, Photoshop etc that makes my web design work top notch and effective. I am full stack developer, but I love building frontend more.</p>
-
-<p style="font-size: 1.2em; line-height: 1.5em;">I am adaptable, have a friendly personality and bring positivity to the team. I can manage large projects and teams.</p>
-
-<h4>I am currently working on - </h4><ul><li> 💇 Hairscope - AI powered hair analysis.</li><li> 🤖 Skingenii - All about skincare.</li></ul>
-<h3>Check out my <a href='https://joy.skylinemeridian.com/'>Portfolio</a> to know more.</h3>
-<br>
-<blockquote>
-<h3>If you're interested in the work I do, or like to discuss any projects, get in touch with me on <a href='https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/'>LinkedIn</a>.</h3>
-</blockquote>
-<br>
-<!--
-## 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
 
 ## 🎏 Love working with them:
 
