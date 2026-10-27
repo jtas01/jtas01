@@ -17,16 +17,31 @@
 ## 🔗 Functional Joy:
 
 ```javascript
+const salt = "qwerty@12345";
+
+function decrypt(encoded) {
+    const key = new TextEncoder().encode(salt);
+    const bytes = Uint8Array.from(atob(encoded), char =>
+        char.charCodeAt(0)
+    );
+
+    for (let i = 0; i < bytes.length; i++) {
+        bytes[i] ^= key[i % key.length];
+    }
+
+    return new TextDecoder().decode(bytes);
+}
+
 function joy() {
-    const mindset = "continuous learning";
-    const mode = "hands-on builder";
+    const mindset = decrypt("EhgLBh0XNV5HQBRZFBYXHB0XJw==");
+    const mode = decrypt("GRYLFgdUL18SUUFcHRMAAA==");
 
     const passions = [
-        "product innovation",
-        "technology",
-        "development",
-        "business building"
-    ];
+        "AQUKFgEaNBFbXVpaBxYRGxsX",
+        "BRIGGhoWLF5VSg==",
+        "FRITFxgWMFxXXUA=",
+        "EwIWGxocM0ISUUFcHRMMHBM="
+    ].map(decrypt);
 
     passions.map(passion => explore(passion));
 
@@ -35,38 +50,64 @@ function joy() {
     improve();
 
     const passionText = passions.length > 1
-        ? passions.slice(0, -1).join(", ") + ", and " + passions.at(-1)
+        ? passions.slice(0, -1).join(", ") +
+          decrypt("URYLFlQ=") + passions.at(-1)
         : passions[0];
 
-    return `Joy = a ${mode} passionate about ${passionText} and ${mindset}.`;
+    return decrypt("OxgcUklZIRE=") +
+        mode +
+        decrypt("UQcEAQcQL19TR1EVEBUKBwBZ") +
+        passionText +
+        decrypt("URYLFlQ=") +
+        decrypt("EhgLBh0XNV5HQBRZFBYXHB0XJw==") +
+        ".";
 }
 
 function explore(topic) {
-    console.log(`Exploring ${topic}... rabbit hole detected.`);
+    console.log(
+        decrypt("NA8VHhsLKV9VEw==") +
+        topic +
+        decrypt("X1lLUgYYIlNbRxRdHhsAUhAcNFRRR1FRXw==")
+    );
 }
 
 function learn() {
     const lessons = [
-        "Question assumptions",
-        "Research relentlessly",
-        "Learn from mistakes"
-    ];
+        "IAIAAQAQL18SUkdGBBoVBh0WLkI=",
+        "IxIWFxULI1kSQVFZFBkRHhEKM11L",
+        "PRIEABpZJkNdXhRYGAQREx8cMw=="
+    ].map(decrypt);
 
     for (const lesson of lessons) {
-        console.log(`learn() → ${lesson}`);
+        console.log(decrypt("HRIEABpRaRHQtaYV") + lesson);
     }
 
-    console.warn("Knowledge updated. Questions multiplied.");
+    console.warn(
+        decrypt("OhkKBRgcJFZXE0FFFRYRFxBXYGBHVkdBGBgLAVQUNV1GWkRZGBIBXA==")
+    );
 }
 
 function build() {
-    const stages = ["IDEA", "PROTOTYPE", "TEST", "DEBUG", "SHIP"];
+    const stages = [
+        "ODM gMw==".replace(" ", ""),
+        "ISUqJjstGWF3",
+        "JTI2Jg==",
+        "NTInJzM=",
+        "Ij8sIg=="
+    ].map(decrypt);
 
     stages.forEach((stage, index) => {
-        console.log(`build() [${index + 1}/${stages.length}] → ${stage}`);
+        console.log(
+            decrypt("EwIMHhBRaRFp") +
+            (index + 1) +
+            decrypt("LFeH9OZZ") +
+            stage
+        );
     });
 
-    console.warn("It works on my machine. Deploying anyway.");
+    console.warn(
+        decrypt("OANFBRsLK0ISXFoVHA5FHxUaKFhcVhoVNRIVHhsAKV9VE1VbCAAEC1o=")
+    );
 }
 
 function improve() {
@@ -74,14 +115,24 @@ function improve() {
 
     while (progress < 100) {
         progress += 25;
-        console.log(`improve() → Progress: ${progress}%`);
+        console.log(
+            decrypt("GBoVABsPJRkbE9az41c1ABseMlRBQA4V") +
+            progress +
+            decrypt("VA==")
+        );
     }
 
-    console.error("Perfection not found. Releasing the update.");
+    console.error(
+        decrypt("IRIXFBEaNFhdXRRbHgNFFBsMLlUcE2ZQHRIEAR0XJxFGW1EVBAcBEwAcbg==")
+    );
 }
 
 joy()
 ```
+
+<h4> Instructions for non-dev: </h4>
+Copy the code, open your browser’s Developer Console (press F12 → Console), paste it, and press Enter to see the result.
+On Mac, press ⌘ + Option + J in Chrome to open the Console directly, then paste the code and press Return.
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
 
