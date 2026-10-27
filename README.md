@@ -14,9 +14,7 @@
 </blockquote>
 <br>
 
-## 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
+## 🔗 Functional Joy:
 
 ```javascript
 function joy() {
@@ -84,6 +82,8 @@ function improve() {
 
 joy()
 ```
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanta-sarkar-web-app-developer/) 
 
 ## 🎏 Love working with them:
 
@@ -144,7 +144,6 @@ joy()
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jtas01&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jtas01&theme=default&hide_border=false)<br/>
