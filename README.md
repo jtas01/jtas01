@@ -67,7 +67,7 @@ function explore(topic) {
     console.log(
         decrypt("NA8VHhsLKV9VEw==") +
         topic +
-        decrypt("X1lLUgYYIlNbRxRdHhsAUhAcNFRRR1FRXw==")
+        decrypt("X1lL")
     );
 }
 
